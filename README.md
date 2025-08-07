@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h1>🖼️ Image Gallery</h1>
+  <h1>🖼️ Images Gallery</h1>
   <p>A clean, responsive, and minimalistic image gallery layout built with HTML, CSS, and JavaScript.</p>
   <img src="Image%20Gallery/images/screenshot.PNG" alt="Image Gallery Screenshot" width="100%"/>
 </div>
